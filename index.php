@@ -91,11 +91,11 @@
             
                 <div class="col-12">
                   <label for="inputAddress" class="form-label">Amount</label>
-                  <input type="text" class="form-control"  placeholder="Enter Amount">
+                  <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
                 </div>
                 <div class="col-12">
-                  <label for="inputAddress2" class="form-label" name="phone">Phone Number</label>
-                  <input type="text" class="form-control" name="amount"  placeholder="Enter Phone Number">
+                  <label for="inputAddress2" class="form-label" >Phone Number</label>
+                  <input type="text" class="form-control" name="phone"  placeholder="Enter Phone Number">
                 </div>
              
                 <div class="col-12">
