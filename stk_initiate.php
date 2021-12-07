@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['submit'])){
-echo"cicked";
+
 
   date_default_timezone_set('Africa/Nairobi');
 
